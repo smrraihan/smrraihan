@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smrraihan
-- 👀 I’m interested in financial data analysis
-- 🌱 I’m currently learning RStudio
-- 💞️ I’m looking to collaborate on making dashboard, financial model
+- 👀 I’m interested in data analysis & automation
+- 🌱 I’m currently learning Python, Pytorch, RStudio
+- 💞️ I’m looking to collaborate on making dashboard, financial modeling
 - 📫 How to reach me just knock me
 
 <!---
